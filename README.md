@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# Rock Paper Scissors Game:  [Click To Play](https://kshirodbadia.github.io/rock-paper-scissors-game/game.html)
 
 Welcome to the classic game of Rock Paper Scissors! This simple yet entertaining game pits players against computer in a battle of wits and luck. Whether you're looking to pass the time or settle a dispute, Rock Paper Scissors is the perfect choice.
 
